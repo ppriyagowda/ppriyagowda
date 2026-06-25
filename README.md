@@ -43,10 +43,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppriyagowda&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ppriyagowda&theme=tokyonight)
 
 ---
 
